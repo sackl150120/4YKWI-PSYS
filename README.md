@@ -4,3 +4,4 @@
 - Create README.md
 - Some commits
 - Push
+- Fetch
