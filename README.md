@@ -5,3 +5,4 @@
 - Some commits
 - Push
 - Fetch
+- Merge
