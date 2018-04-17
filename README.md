@@ -6,3 +6,4 @@
 - Push
 - Fetch
 - Merge
+- Pull
